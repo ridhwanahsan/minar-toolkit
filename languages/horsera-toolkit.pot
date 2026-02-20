@@ -1,0 +1,179 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-04-15 02:28+0600\n"
+"PO-Revision-Date: 2019-05-02 15:56+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;esc_html_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: redux\n"
+
+#: ReduxCore/inc/classes/class-redux-panel.php:405
+msgid "Your panel has bundled copies of Redux Framework template files that are outdated!"
+msgstr ""
+
+#: ReduxCore/inc/classes/class-redux-panel.php:405
+msgid "Please update them now as functionality issues could arise."
+msgstr ""
+
+#: ReduxCore/inc/extensions/customizer/inc/class-redux-customizer-panel.php:109
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: ReduxCore/inc/extensions/customizer/inc/class-redux-customizer-panel.php:193
+#: ReduxCore/inc/extensions/customizer/inc/class-redux-customizer-section.php:181
+msgid "Back"
+msgstr ""
+
+#: ReduxCore/inc/extensions/customizer/inc/class-redux-customizer-panel.php:204
+msgid "Help"
+msgstr ""
+
+#: ReduxCore/inc/extensions/customizer/inc/class-redux-customizer-section.php:98
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: ReduxCore/inc/extensions/customizer/inc/class-redux-customizer-section.php:175
+msgid "Press return or enter to open"
+msgstr ""
+
+#: ReduxCore/inc/extensions/import_export/import_export/class-redux-import-export.php:77
+msgid "Import Options"
+msgstr ""
+
+#: ReduxCore/inc/extensions/import_export/import_export/class-redux-import-export.php:83
+msgid "Import from Clipboard"
+msgstr ""
+
+#: ReduxCore/inc/extensions/import_export/import_export/class-redux-import-export.php:89
+msgid "Upload file"
+msgstr ""
+
+#: ReduxCore/inc/extensions/import_export/import_export/class-redux-import-export.php:109
+msgid "Import"
+msgstr ""
+
+#: ReduxCore/inc/extensions/import_export/import_export/class-redux-import-export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: ReduxCore/inc/extensions/import_export/import_export/class-redux-import-export.php:131
+#: ReduxCore/inc/extensions/import_export/import_export/class-redux-import-export.php:133
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: ReduxCore/inc/extensions/import_export/import_export/class-redux-import-export.php:132
+msgid "Copied!"
+msgstr ""
+
+#: ReduxCore/inc/extensions/import_export/import_export/class-redux-import-export.php:136
+msgid "Export File"
+msgstr ""
+
+#: ReduxCore/inc/extensions/options_object/options_object/class-redux-options-object.php:100
+msgid "Options Object"
+msgstr ""
+
+#: ReduxCore/inc/extensions/options_object/options_object/class-redux-options-object.php:106
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ReduxCore/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:217
+msgid "Enabled"
+msgstr ""
+
+#: ReduxCore/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-widget.php:199
+msgid "Title"
+msgstr ""
+
+#: ReduxCore/inc/welcome/class-redux-welcome.php:186
+msgid "What is Redux?"
+msgstr ""
+
+#: ReduxCore/inc/welcome/class-redux-welcome.php:192
+msgid "Templates"
+msgstr ""
+
+#: ReduxCore/inc/welcome/views/about.php:21
+#: ReduxCore/inc/welcome/views/templates.php:19
+msgid "Redux is the world's most powerful and widely used WordPress interface builder. We are trusted by millions of developers and end users world-wide."
+msgstr ""
+
+#: ReduxCore/inc/welcome/views/about.php:43
+msgid "Maybe not! These items are using Redux. If you want to keep using them, Redux will need to remain installed and activated."
+msgstr ""
+
+#: ReduxCore/inc/welcome/views/templates.php:45
+msgid "Extendify Template Library"
+msgstr ""
+
+#: ReduxCore/inc/welcome/views/templates.php:49
+msgid "Load Extendify template library"
+msgstr ""
+
+#: ReduxCore/templates/panel/footer.tpl.php:67
+#: ReduxCore/templates/panel/header-stickybar.tpl.php:31
+msgid "Working..."
+msgstr ""
+
+#: ReduxCore/templates/panel/header-stickybar.tpl.php:16
+msgid "Expand"
+msgstr ""
+
+#: ReduxCore/templates/panel/header.tpl.php:48
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: inc/widgets.php:109 inc/widgets.php:188 inc/widgets.php:299
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:114
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets.php:118
+msgid "Mode:"
+msgstr ""
+
+#: inc/widgets.php:120
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:121
+msgid "Random Posts"
+msgstr ""
+
+#: inc/widgets.php:123
+msgid "Post views"
+msgstr ""
+
+#: inc/widgets.php:192
+msgid "Image:"
+msgstr ""
+
+#: inc/widgets.php:219
+msgid "Name:"
+msgstr ""
+
+#: inc/widgets.php:223
+msgid "Designation:"
+msgstr ""
+
+#: inc/widgets.php:227
+msgid "Social:"
+msgstr ""
+
+#: inc/widgets.php:231
+msgid "Description:"
+msgstr ""
