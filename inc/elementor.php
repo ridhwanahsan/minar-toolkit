@@ -157,6 +157,8 @@ final class Elementor_minar_Extension {
         return [ 
         'about-inner-section', 
         'hero-01', 
+        'hero-01', 
+        'hero-02', 
         'woo-single-product', 
         'awareness-widget',
         'why-choose-us',
